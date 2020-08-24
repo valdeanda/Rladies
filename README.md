@@ -47,6 +47,11 @@ Thaumarchaeota unclassified     1       Archaea Thaumarchaeota  Archaea_unclassi
 Unclassified Archaea unclassified       1       Archaea Archaea_unclassified    Archaea_unclassified
 ```
 
+## Red esperada
+
+![Network](./network.png)
+
+
 ## Visualizacion con VisNetwork
 
 [Link al ejercicio ](https://valdeanda.github.io/Rladies/script/VisNetwork.html)
