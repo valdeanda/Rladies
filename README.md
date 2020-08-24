@@ -57,26 +57,66 @@ Unclassified Archaea unclassified       1       Archaea Archaea_unclassified    
 [Link al ejercicio ](https://valdeanda.github.io/Rladies/script/VisNetwork.html)
 
 
+---
 
-## Referencias usadas en la presentación
-
+## Referencias 
 
 ### Introducción a las redes
 
-[Lenguage Wolfram introducción a redes](https://www.wolfram.com/language/elementary-introduction/2nd-ed/21-graphs-and-networks.html.es)
-[Aldana 2011:Redes Complejas: Estructura, Dinámica y Evolución](https://www.fis.unam.mx/~max/MyWebPage/notastwocolumn.pdf)
+* [Lenguage Wolfram introducción a redes](https://www.wolfram.com/language/elementary-introduction/2nd-ed/21-graphs-and-networks.html.es)
+* [Aldana 2011:Redes Complejas: Estructura, Dinámica y Evolución](https://www.fis.unam.mx/~max/MyWebPage/notastwocolumn.pdf)
 
 
 ### Redes complejas
+* [Barabási & Albert 1999](https://science.sciencemag.org/content/286/5439/509)
+* [Watts & Strogatz 1998](https://www.nature.com/articles/30918)
+* [Albert R & Barabási 2002](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.74.47)
+* [Tëmkin I., Eldredge N. (2015)](https://link.springer.com/chapter/10.1007/978-3-319-15045-1_6)
+* [Torres Agudo 2020](http://www.ugr.es/~jtorres/Tema_2_redes_complejas.pdf)
+New insights into how to utilize graph theoretical measures to make neurobiological inferences regarding the mechanisms underlying human cognition, behavior, and brain disorders. 
+* [Farahani et al., 2019](https://www.frontiersin.org/articles/10.3389/fnins.2019.00585/full)
 
-[Albert R & Barabási 2002](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.74.47)
-[Tëmkin I., Eldredge N. (2015)](https://link.springer.com/chapter/10.1007/978-3-319-15045-1_6)
-[Torres Agudo 2020](http://www.ugr.es/~jtorres/Tema_2_redes_complejas.pdf)
+### Network motifs
+
+* [Milo et al., 2002](https://science.sciencemag.org/content/298/5594/824)
+* [Bascompte J 2009](https://science.sciencemag.org/content/325/5939/416/F2)
+* [Shen et al., 2002](https://www.nature.com/articles/ng881z)
+* [Prill et al., 2005](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.0030343)
+* [Tran et al., 2013](https://www.nature.com/articles/ncomms3241)
+
 
 ### Protein-Protein Interactions
-[EBI-Training online course](https://www.ebi.ac.uk/training/online/course/network-analysis-protein-interaction-data-introduction/protein-protein-interaction-networks)
+* [EBI-Training online course](https://www.ebi.ac.uk/training/online/course/network-analysis-protein-interaction-data-introduction/protein-protein-interaction-networks)
 
 ### Modularity in Networks
 
-[Newman 2006](https://www.pnas.org/content/103/23/8577)
+* [Newman 2006](https://www.pnas.org/content/103/23/8577)
+
+### Ejemplos de redes genéticas 
+
+* [Chen et al., 2018](https://www.nature.com/articles/s41467-018-06772-3)
+
+### Redes ecológicas 
+
+* [Proulx et al., 2005](https://www.sciencedirect.com/science/article/abs/pii/S0169534705000881)
+* [Delmas et al., 2018](https://onlinelibrary.wiley.com/doi/10.1111/brv.12433)
+
+### Redes ecologicas en comunidades microbianas
+
+* [Faust & Raes 2012 Review](https://www.nature.com/articles/nrmicro2832)
+* [Xiao et al., 2017](https://www.nature.com/articles/s41467-017-02090-2.pdf?proof=true)
+* [De Anda et al., 2018](https://www.frontiersin.org/articles/10.3389/fmicb.2018.02606/full)
+* [De Anda et al., 2018](https://link.springer.com/chapter/10.1007/978-3-319-95855-2_7)
+
+### Herramientas para predecir redes biológicas
+
+CoNet is available on command line and as a Cytoscape app
+(versions 2.X and 3.X)
+* [CoNet page](http://systemsbiology.vub.ac.be/conet)
+* [Cytoscape](http://apps.cytoscape.org/apps/conet)
+* [SPIEC-EASI](https://github.com/zdk123/SpiecEasi)
+* [FlashWeave](https://github.com/meringlab/FlashWeave.jl)
+
+
+
 
