@@ -58,4 +58,24 @@ Unclassified Archaea unclassified       1       Archaea Archaea_unclassified    
 
 
 
+## Referencias usadas en la presentación
+
+
+### Introducción a las redes
+
+[Lenguage Wolfram introducción a redes](https://www.wolfram.com/language/elementary-introduction/2nd-ed/21-graphs-and-networks.html.es)
+[Aldana 2011:Redes Complejas: Estructura, Dinámica y Evolución](https://www.fis.unam.mx/~max/MyWebPage/notastwocolumn.pdf)
+
+
+## Redes complejas
+
+[Albert R & Barabási 2002](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.74.47)
+[Tëmkin I., Eldredge N. (2015)](https://link.springer.com/chapter/10.1007/978-3-319-15045-1_6)
+[Torres Agudo 2020](http://www.ugr.es/~jtorres/Tema_2_redes_complejas.pdf)
+
+
+
+# Modularity in Networks
+
+[Newman 2006](https://www.pnas.org/content/103/23/8577)
 
