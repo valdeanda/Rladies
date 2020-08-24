@@ -3,6 +3,9 @@
 ![Rladies](./rladiespic.jpg)
 ![Agenda](./agenda.png)
 
+
+# Taller de visualización de redes complejas con VisNetwork
+
 ## Acerca de los datos
 
 En este taller aprenderemos a utilizar la libreria de R [VisNetwork](https://datastorm-open.github.io/visNetwork/) que permite la visualización interactiva de redes. 
@@ -108,7 +111,7 @@ New insights into how to utilize graph theoretical measures to make neurobiologi
 * [De Anda et al., 2018](https://www.frontiersin.org/articles/10.3389/fmicb.2018.02606/full)
 * [De Anda et al., 2018](https://link.springer.com/chapter/10.1007/978-3-319-95855-2_7)
 
-### Herramientas para predecir redes biológicas
+### Herramientas para predecir redes de comunidades microbianas a partir de datos de secuenciación masiva
 
 CoNet is available on command line and as a Cytoscape app
 (versions 2.X and 3.X)
@@ -119,6 +122,27 @@ CoNet is available on command line and as a Cytoscape app
 * [Tutorial using SparCC with 16S derived data](https://rachaellappan.github.io/16S-analysis/correlation-between-otus-with-sparcc.html)
 * [SparCC]
 (https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002687)
+* [MENAP](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-13-113)
+* [REBACCA](https://pubmed.ncbi.nlm.nih.gov/26079350/)
+* [Mint](https://link.springer.com/chapter/10.1007/978-3-319-16706-0_6)
+* [gCoda](https://www.liebertpub.com/doi/abs/10.1089/cmb.2017.0054?journalCode=cmb)
+
+### Redes en  Series de tiempo 
+
+* [Xia et al., 2013](https://academic.oup.com/bioinformatics/article/29/2/230/202138)
+* [Durno et al., 2013](https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-14-S1-S3)
+* [xIA ET AL., 2011](https://bmcsystbiol.biomedcentral.com/articles/10.1186/1752-0509-5-S2-S15)
+* [eLSA](https://bitbucket.org/charade/elsa/wiki/Home)
+
+#### Series de tiempo en linea de comandos 
+
+* [fastLSA](http://hallam.microbiology.ubc.ca/fastLSA/install/index.html)
+* [eLSA](https://bitbucket.org/charade/elsa/wiki/Home)
 
 
+## Series de tiempo con Generalized Lotka-Volterra (gLV)
 
+* [Limits](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0102451)
+* [MDSINE](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0980-6)
+* [METAMIS] (https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1359-0)
+* [Alshawagfeh et al., 2017](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-017-3605-x)
