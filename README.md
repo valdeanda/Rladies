@@ -164,10 +164,3 @@ New insights into how to utilize graph theoretical measures to make neurobiologi
 * [Cell illustrator](http://ebooks.iospress.nl/publication/13959)
 
 
-
-
-
-
-
-
-## Herramientas 
