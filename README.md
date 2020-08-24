@@ -138,10 +138,36 @@ New insights into how to utilize graph theoretical measures to make neurobiologi
 * [eLSA](https://bitbucket.org/charade/elsa/wiki/Home)
 
 
-## Series de tiempo con Generalized Lotka-Volterra (gLV)
+### Series de tiempo con Generalized Lotka-Volterra (gLV)
 
 * [Limits](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0102451)
 * [MDSINE](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0980-6)
 * [METAMIS](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1359-0)
 * [Alshawagfeh et al., 2017](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-017-3605-x)
 * [Faust et al., 2015](https://www.sciencedirect.com/science/article/pii/S1369527415000478)
+
+### Analisis topologicos de redes
+
+* [Anuran](https://github.com/ramellose/anuran)
+* [NetAn](https://github.com/valdeanda/NetAn)
+
+### Visualización de redes
+
+* [Graphviz](https://link.springer.com/chapter/10.1007/3-540-45848-4_57)
+* [Gephi](https://gephi.org/publications/gephi-bastian-feb09.pdf)
+* [CellNetVis](https://europepmc.org/article/med/28929969)
+* [Tulip](https://tulip.labri.fr/TulipDrupal/)
+* [Cystocape](https://cytoscape.org/)
+* [PEx-Graph](http://vicg.icmc.usp.br/vicg/tool/1/projection-explorer-pex)
+* [Biographer](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3661053/)
+* [CerebralWeb](https://academic.oup.com/database/article/doi/10.1093/database/bav041/2433173)
+* [Cell illustrator](http://ebooks.iospress.nl/publication/13959)
+
+
+
+
+
+
+
+
+## Herramientas 
