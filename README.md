@@ -113,9 +113,7 @@ New insights into how to utilize graph theoretical measures to make neurobiologi
 
 ### Herramientas para predecir redes de comunidades microbianas a partir de datos de secuenciación masiva
 
-CoNet is available on command line and as a Cytoscape app
-(versions 2.X and 3.X)
-* [CoNet page](http://systemsbiology.vub.ac.be/conet)
+* [CoNet](http://systemsbiology.vub.ac.be/conet)
 * [Cytoscape](http://apps.cytoscape.org/apps/conet)
 * [SPIEC-EASI](https://github.com/zdk123/SpiecEasi)
 * [FlashWeave](https://github.com/meringlab/FlashWeave.jl)
