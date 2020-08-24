@@ -144,5 +144,6 @@ CoNet is available on command line and as a Cytoscape app
 
 * [Limits](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0102451)
 * [MDSINE](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0980-6)
-* [METAMIS] (https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1359-0)
+* [METAMIS](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1359-0)
 * [Alshawagfeh et al., 2017](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-017-3605-x)
+* [Faust et al., 2015](https://www.sciencedirect.com/science/article/pii/S1369527415000478)
