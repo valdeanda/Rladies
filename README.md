@@ -113,6 +113,7 @@ New insights into how to utilize graph theoretical measures to make neurobiologi
 * [Xiao et al., 2017](https://www.nature.com/articles/s41467-017-02090-2.pdf?proof=true)
 * [De Anda et al., 2018](https://www.frontiersin.org/articles/10.3389/fmicb.2018.02606/full)
 * [De Anda et al., 2018](https://link.springer.com/chapter/10.1007/978-3-319-95855-2_7)
+* [Mandakovic et al., 2018](https://www.nature.com/articles/s41598-018-23931-0)
 
 ### Herramientas para predecir redes de comunidades microbianas a partir de datos de secuenciación masiva
 
@@ -121,18 +122,22 @@ New insights into how to utilize graph theoretical measures to make neurobiologi
 * [SPIEC-EASI](https://github.com/zdk123/SpiecEasi)
 * [FlashWeave](https://github.com/meringlab/FlashWeave.jl)
 * [Tutorial using SparCC with 16S derived data](https://rachaellappan.github.io/16S-analysis/correlation-between-otus-with-sparcc.html)
-* [SparCC]
-(https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002687)
+* [SparCC](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002687)
 * [MENAP](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-13-113)
 * [REBACCA](https://pubmed.ncbi.nlm.nih.gov/26079350/)
 * [Mint](https://link.springer.com/chapter/10.1007/978-3-319-16706-0_6)
 * [gCoda](https://www.liebertpub.com/doi/abs/10.1089/cmb.2017.0054?journalCode=cmb)
 
+### Analisis comparativos de diferentes metodos de inferencia de redes
+
+* [Faisal et al., 2010](https://www.sciencedirect.com/science/article/abs/pii/S1574954110000786)
+* [Inferring Ecological Networks from species abundance data, Master Thesis](https://www.bioss.ac.uk/student/MScThesis_FrankD.pdf)
+
 ### Redes en  Series de tiempo 
 
 * [Xia et al., 2013](https://academic.oup.com/bioinformatics/article/29/2/230/202138)
 * [Durno et al., 2013](https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-14-S1-S3)
-* [xIA ET AL., 2011](https://bmcsystbiol.biomedcentral.com/articles/10.1186/1752-0509-5-S2-S15)
+* [Xia et al., 2011](https://bmcsystbiol.biomedcentral.com/articles/10.1186/1752-0509-5-S2-S15)
 * [eLSA](https://bitbucket.org/charade/elsa/wiki/Home)
 
 #### Series de tiempo en linea de comandos 
