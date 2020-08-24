@@ -49,7 +49,7 @@ Unclassified Archaea unclassified       1       Archaea Archaea_unclassified    
 
 ## Visualizacion con VisNetwork
 
-[Link al ejercicio ](https://valdeanda.github.io/Rladies/VisNetwork.html)
+[Link al ejercicio ](https://valdeanda.github.io/Rladies/script/VisNetwork.html)
 
 
 
