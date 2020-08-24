@@ -1,6 +1,7 @@
 # Rladies
 
 ![Rladies](./rladiespic.jpg)
+![Agenda](./ordendeldia.jpeg)
 
 ## Acerca de los datos
 
@@ -115,7 +116,9 @@ CoNet is available on command line and as a Cytoscape app
 * [Cytoscape](http://apps.cytoscape.org/apps/conet)
 * [SPIEC-EASI](https://github.com/zdk123/SpiecEasi)
 * [FlashWeave](https://github.com/meringlab/FlashWeave.jl)
-
+* [Tutorial using SparCC with 16S derived data](https://rachaellappan.github.io/16S-analysis/correlation-between-otus-with-sparcc.html)
+* [SparCC]
+(https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1002687)
 
 
 
