@@ -88,8 +88,11 @@ New insights into how to utilize graph theoretical measures to make neurobiologi
 * [Tran et al., 2013](https://www.nature.com/articles/ncomms3241)
 
 
-### Protein-Protein Interactions
-* [EBI-Training online course](https://www.ebi.ac.uk/training/online/course/network-analysis-protein-interaction-data-introduction/protein-protein-interaction-networks)
+### Protein Interactions
+
+* This webinar [EBI-Training online course](https://www.ebi.ac.uk/training/online/course/network-analysis-protein-interaction-data-introduction/protein-protein-interaction-networks) from Birgit Meldal provides you with an introduction to protein-protein interactions and the molecular interaction database
+* [Mason et al., 2001](https://www.nature.com/articles/35075138)
+* [Rual et al., 2005](https://www.nature.com/articles/nature04209)
 
 ### Modularity in Networks
 
@@ -146,7 +149,7 @@ New insights into how to utilize graph theoretical measures to make neurobiologi
 * [Alshawagfeh et al., 2017](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-017-3605-x)
 * [Faust et al., 2015](https://www.sciencedirect.com/science/article/pii/S1369527415000478)
 
-### Analisis topologicos de redes
+### Analisis de redes
 
 * [Anuran](https://github.com/ramellose/anuran)
 * [NetAn](https://github.com/valdeanda/NetAn)
