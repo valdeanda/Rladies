@@ -67,15 +67,16 @@ Unclassified Archaea unclassified       1       Archaea Archaea_unclassified    
 [Aldana 2011:Redes Complejas: Estructura, Dinámica y Evolución](https://www.fis.unam.mx/~max/MyWebPage/notastwocolumn.pdf)
 
 
-## Redes complejas
+### Redes complejas
 
 [Albert R & Barabási 2002](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.74.47)
 [Tëmkin I., Eldredge N. (2015)](https://link.springer.com/chapter/10.1007/978-3-319-15045-1_6)
 [Torres Agudo 2020](http://www.ugr.es/~jtorres/Tema_2_redes_complejas.pdf)
 
+### Protein-Protein Interactions
+[EBI-Training online course](https://www.ebi.ac.uk/training/online/course/network-analysis-protein-interaction-data-introduction/protein-protein-interaction-networks)
 
-
-# Modularity in Networks
+### Modularity in Networks
 
 [Newman 2006](https://www.pnas.org/content/103/23/8577)
 
