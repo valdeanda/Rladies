@@ -1,7 +1,7 @@
 # Rladies
 
 ![Rladies](./rladiespic.jpg)
-![Agenda](./ordendeldia.jpeg)
+![Agenda](./agenda.png)
 
 ## Acerca de los datos
 
