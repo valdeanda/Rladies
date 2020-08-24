@@ -6,6 +6,11 @@
 
 # Taller de visualización de redes complejas con VisNetwork
 
+## Diapositivas
+
+Disponibles via en [Speaker Deck](https://speakerdeck.com/valeriedeanda/que-son-las-redes-complejas-y-como-visualizarlas-con-visnetwork)
+
+
 ## Acerca de los datos
 
 En este taller aprenderemos a utilizar la libreria de R [VisNetwork](https://datastorm-open.github.io/visNetwork/) que permite la visualización interactiva de redes. 
