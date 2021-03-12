@@ -19,7 +19,7 @@ Utilizaremos datos reales descritos en [De Anda et al., 2018](https://www.fronti
 
 Los datos de este ejercicio forman parte de los archivos ejemplo de [NetAn](https://github.com/valdeanda/NetAn), un algorítmo diseñado para analizar las caracteriticas topologicas de redes complejas. 
 
-Las redes biólogicas se predijeron utlizando [Lotka-Volterra model based tool, the Metagenomic Microbial Interacticon Simulator (MetaMIS)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1359-0. 
+Las redes biólogicas se predijeron utlizando [Lotka-Volterra model based tool, the Metagenomic Microbial Interacticon Simulator (MetaMIS)](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1359-0)
 
 ## Descripción de los datos
 
